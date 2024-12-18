@@ -1,2 +1,2 @@
 def bar(self):
-    self.cocktail = 9
+    self.cocktail = 10
