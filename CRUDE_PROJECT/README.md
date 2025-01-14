@@ -6,4 +6,4 @@ Update: Change some infos to an already created registration.
 Delere: Remove a registration from the database.
 
 This app lets you manipulate data over a school database of students as well as teachers.
-All progress is saved to a json file
+All progress is saved to a json file.
