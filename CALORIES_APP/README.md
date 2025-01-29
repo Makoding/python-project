@@ -4,5 +4,5 @@ There, through an additional link, the users get access to the calories calculat
 The web pages are written in HTML and the Calories Calculation Form page has also CSS graphics.
 
 There is a bit of web scraping aslo happening because the temprature parameter is extracted from the timeanddate.com site. 
-The user's country and city input are added to the site's url and by copying the Xpath to a .yaml file i was able to do the extraction.
+The user's country and city input are added to the site's url and by copying the XPath to a .yaml file i was able to do the extraction.
 
